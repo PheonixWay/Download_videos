@@ -1,10 +1,10 @@
 # Download_videos
-You can download any youtube videos 
-just install Spotdl repository to start
-install vs code software 
-then install python
-then just paste this code in vs code software 
-import youtube_dl
+1.You can download any youtube videos 
+2.just install Spotdl repository to start
+3.install vs code software 
+4.then install python
+5.then just paste this code in vs code software 
+6.import youtube_dl
 
 
 def run():
@@ -28,6 +28,6 @@ def run():
 if __name__ == '__main__':
     run()
 
-then press run then provide link to download and just wait patiently 
-i not creat this code i am just promoting other code for better usage.
-Thank you 
+7.then press run then provide link to download and just wait patiently 
+8.i not creat this code i am just promoting other code for better usage.
+9.Thank you 
